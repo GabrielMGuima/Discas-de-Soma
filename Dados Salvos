@@ -1,0 +1,21 @@
+Alguns Dados Salvos
+# + Adição 5+2== 7
+# - Subtração 5-2== 3
+# * Multiplicação 5*2==10
+# / Divisão 5/2== 2.5
+# ** Potência 5**2== 25
+# // Duvisão inteira 5//2== 2 
+# % Resto da Divisão 5%2== 1
+# == è Igual
+# = Recebe
+# Ordem de Precedência 1,() 2,** 3,*,/,//,%  4,+,-
+# print(''){},.format(Variavel)) serve pra printa uma variavel ou varias 
+# .format(variavel (uma soma) variavel) serve pra fazer uma soma sem precisar criar outra variavel 
+# {:<20} Alinha a Esquerda e preencher com 20 caracteris (como você não indico sinal ele preenche com vazil) 
+# {:>20} Alinha a direita preencher com 20 caracteris (como você não indico sinal ele preenche com vazil) 
+# {:^20} Centraliza com e preencher com 20 caracteris (como você não indico sinal ele preenche com vazil) 
+# {:.2f} Serve pra você limitar a quantidade de caracteris que você queira na resposta
+# {:=^20} Vai centralizar com 20 caracteris e preencher o restante com = (pode ser qualquer sinal).
+# , end='') serve pra não ter quebra de linhas e prencher tudo na mesma end=(alguma escrita) ele vai acrecentar na print
+# \n serve pra quebra a linha fazendo digita o restante na de baixo 
+# para calcular a raiz quadrada de um numero você pode usar a soma (** 0.5) 
